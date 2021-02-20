@@ -1,0 +1,8 @@
+C:\Users\Feisal\Documents\GitHub\CakeShopApp\CakeShopApp\CakeShopApp\obj\Debug\netcoreapp3.0\CakeShopApp.csprojAssemblyReference.cache
+C:\Users\Feisal\Documents\GitHub\CakeShopApp\CakeShopApp\CakeShopApp\obj\Debug\netcoreapp3.0\staticwebassets\CakeShopApp.StaticWebAssets.Manifest.cache
+C:\Users\Feisal\Documents\GitHub\CakeShopApp\CakeShopApp\CakeShopApp\obj\Debug\netcoreapp3.0\staticwebassets\CakeShopApp.StaticWebAssets.xml
+C:\Users\Feisal\Documents\GitHub\CakeShopApp\CakeShopApp\CakeShopApp\obj\Debug\netcoreapp3.0\CakeShopApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Feisal\Documents\GitHub\CakeShopApp\CakeShopApp\CakeShopApp\obj\Debug\netcoreapp3.0\CakeShopApp.RazorAssemblyInfo.cache
+C:\Users\Feisal\Documents\GitHub\CakeShopApp\CakeShopApp\CakeShopApp\obj\Debug\netcoreapp3.0\CakeShopApp.RazorAssemblyInfo.cs
+C:\Users\Feisal\Documents\GitHub\CakeShopApp\CakeShopApp\CakeShopApp\obj\Debug\netcoreapp3.0\CakeShopApp.AssemblyInfoInputs.cache
+C:\Users\Feisal\Documents\GitHub\CakeShopApp\CakeShopApp\CakeShopApp\obj\Debug\netcoreapp3.0\CakeShopApp.AssemblyInfo.cs
