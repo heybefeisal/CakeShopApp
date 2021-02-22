@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Feisal\\Documents\\GitHub\\CakeShopApp\\CakeShopApp\\CakeShopApp\\CakeShopApp.csproj": {}
+    "C:\\Users\\heybe\\Documents\\Github\\CakeShopApp\\CakeShopApp\\CakeShopApp\\CakeShopApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Feisal\\Documents\\GitHub\\CakeShopApp\\CakeShopApp\\CakeShopApp\\CakeShopApp.csproj": {
+    "C:\\Users\\heybe\\Documents\\Github\\CakeShopApp\\CakeShopApp\\CakeShopApp\\CakeShopApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Feisal\\Documents\\GitHub\\CakeShopApp\\CakeShopApp\\CakeShopApp\\CakeShopApp.csproj",
+        "projectUniqueName": "C:\\Users\\heybe\\Documents\\Github\\CakeShopApp\\CakeShopApp\\CakeShopApp\\CakeShopApp.csproj",
         "projectName": "CakeShopApp",
-        "projectPath": "C:\\Users\\Feisal\\Documents\\GitHub\\CakeShopApp\\CakeShopApp\\CakeShopApp\\CakeShopApp.csproj",
-        "packagesPath": "C:\\Users\\Feisal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Feisal\\Documents\\GitHub\\CakeShopApp\\CakeShopApp\\CakeShopApp\\obj\\",
+        "projectPath": "C:\\Users\\heybe\\Documents\\Github\\CakeShopApp\\CakeShopApp\\CakeShopApp\\CakeShopApp.csproj",
+        "packagesPath": "C:\\Users\\heybe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\heybe\\Documents\\Github\\CakeShopApp\\CakeShopApp\\CakeShopApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Feisal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\heybe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,6 +37,18 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,7 +66,7 @@
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.0.1, 3.0.1]"
+              "version": "[3.0.3, 3.0.3]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
@@ -73,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
