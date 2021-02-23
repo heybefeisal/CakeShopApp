@@ -62,3 +62,4 @@ C:\Users\heybe\Documents\Github\CakeShopApp\CakeShopApp\CakeShopApp\obj\Debug\ne
 C:\Users\heybe\Documents\Github\CakeShopApp\CakeShopApp\CakeShopApp\obj\Debug\netcoreapp3.0\CakeShopApp.dll
 C:\Users\heybe\Documents\Github\CakeShopApp\CakeShopApp\CakeShopApp\obj\Debug\netcoreapp3.0\CakeShopApp.pdb
 C:\Users\heybe\Documents\Github\CakeShopApp\CakeShopApp\CakeShopApp\obj\Debug\netcoreapp3.0\CakeShopApp.genruntimeconfig.cache
+C:\Users\heybe\Documents\Github\CakeShopApp\CakeShopApp\CakeShopApp\obj\Debug\netcoreapp3.0\CakeShopApp.csprojAssemblyReference.cache
